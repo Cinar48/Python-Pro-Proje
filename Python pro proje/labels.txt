@@ -1,0 +1,9 @@
+0 Plastik
+1 Plastik eşyalar
+2 Kağıt
+3 Karton
+4 Metal 
+5 Metal eşyalar
+6 Evsel 
+7 Cam
+8 Cam eşyalar
